@@ -1,0 +1,14 @@
+.wrapper {
+  background-color: lightgray;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.input {
+  color: darkblue;
+}
+
+.label {
+  color: black;
+}
+
